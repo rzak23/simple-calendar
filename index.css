@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'Oswald', sans-serif;
+    src: url(assets/fonts/Oswald-VariableFont_wght.ttf);
+}
+
+.box-calendar{
+    /* From https://css.glass */
+    background: rgba(42, 119, 202, 0.25);
+    border-radius: 16px;
+    box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);
+    backdrop-filter: blur(5.8px);
+    -webkit-backdrop-filter: blur(5.8px);
+    border: 1px solid rgba(42, 119, 202, 0.3);
+    margin-top: 5em;
+}
+
+.txt-hari{
+    font-family: 'Oswald', sans-serif;
+    font-size: 3em;
+}
+
+.txt-tgl{
+    font-family: 'Oswald', sans-serif;
+    font-size: 6em;
+}

@@ -1,0 +1,19 @@
+{
+  "name": "simple-calendar",
+  "version": "1.0.0",
+  "description": "Simple Calendar App With Electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "Re.Studio",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^28.0.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.2",
+    "moment": "^2.29.4"
+  }
+}
